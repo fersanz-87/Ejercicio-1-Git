@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Línea 1
 Línea 2 - Cambio en master
+=======
+Línea 2 - Cambio en feature
+>>>>>>> feature
